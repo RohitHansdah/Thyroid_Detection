@@ -40,6 +40,16 @@ Each Cluster was trained on **Random Forest Classifier , Naive Bayes Classifier 
 
 The model predicted on test dataset as well and **ROC-AUC** score was used for evaluation of the model.
 
+ROC-AUC score of Random Forest Classifier for Cluster 0 :  0.9928315412186379
+ROC-AUC score of Naive Bayes Classifier for Cluster 0 :  0.8449820788530467
+ROC-AUC score of Support Vector Classifier for Cluster 0 :  0.989247311827957
+ROC-AUC score of Random Forest Classifier for Cluster 1 :  0.9958263772954925
+ROC-AUC score of Naive Bayes Classifier for Cluster 1 :  0.7974190317195324
+ROC-AUC score of Support Vector Classifier for Cluster 1 :  0.994991652754591
+ROC-AUC score of Random Forest Classifier for Cluster 2 :  0.9863481228668942
+ROC-AUC score of Naive Bayes Classifier for Cluster 2 :  0.8058890582632977
+ROC-AUC score of Support Vector Classifier for Cluster 2 :  0.9897610921501707
+
 ### Website Link : https://thyroid-prediction-streamlit.herokuapp.com/
 
 
