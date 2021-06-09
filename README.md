@@ -6,3 +6,7 @@ This app predicts the chances of having **Thyroid Disease** using user provided 
 https://www.kaggle.com/kumar012/hypothyroid?select=hypothyroid.csv
 
 ## Model Pipeline
+
+
+
+
