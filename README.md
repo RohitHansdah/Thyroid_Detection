@@ -36,9 +36,9 @@ In this step Feature Scaling , Normalization and Over Sampling(Imbalanced Data) 
 
 Each Cluster was trained on **Random Forest Classifier , Naive Bayes Classifier and Support Vector Classifier** and the optimal was choosen for each cluster.
 
-#### Step 6 : Model Prediction and Evaluation :
+#### Step 6 : Model Prediction and Evaluation and Hyper parameter tuning:
 
-The model predicted on test dataset as well and **ROC-AUC** score was used for evaluation of the model.
+The model predictions were made  on the test dataset and  Hyper parameter tunong was done using Grid search Cv**ROC-AUC** score was used for evaluation of the model.
 
 ![Capture](https://user-images.githubusercontent.com/44118554/121291898-a333cd80-c906-11eb-9c04-e1b8def39f8e.PNG)
 
