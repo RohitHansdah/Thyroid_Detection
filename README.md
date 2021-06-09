@@ -36,7 +36,7 @@ In this step Feature Scaling , Normalization and Over Sampling(Imbalanced Data) 
 
 Each Cluster was trained on **K-Nearest Neighbours Classifier , Naive Bayes Classifier and Support Vector Classifier**.The model with better performance was choosen.
 
-#### Step 6 : Model Prediction and Evaluation and Hyper parameter tuning:
+#### Step 6 : Model Prediction , Evaluation and Hyper parameter tuning:
 
 The model predictions were made  on the test dataset and  Hyper parameter tuning was done using Grid Search CV .**ROC-AUC** score was used for evaluation of the model.
 
