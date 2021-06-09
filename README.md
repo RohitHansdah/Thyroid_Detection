@@ -13,7 +13,7 @@ https://www.kaggle.com/kumar012/hypothyroid?select=hypothyroid.csv
 
 #### Step 1 : Importing Libraries and Dataset : 
 
-Important python libraries used were Scikit-Learn , Pandas , Numpy , Imblearn and  Streamlit . The Training dataset was obtained from Kaggle website 
+Important python libraries used in the project are Scikit-Learn , Pandas , Numpy , Imblearn and  Streamlit . The Training dataset was obtained from Kaggle website 
 Dataset Link : https://www.kaggle.com/kumar012/hypothyroid?select=hypothyroid.csv
 
 #### Step 2 : Data Preprocessing : 
