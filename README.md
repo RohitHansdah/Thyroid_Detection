@@ -40,7 +40,7 @@ Each Cluster was trained on **Random Forest Classifier , Naive Bayes Classifier 
 
 The model predicted on test dataset as well and **ROC-AUC** score was used for evaluation of the model.
 
-
+![Capture](https://user-images.githubusercontent.com/44118554/121291898-a333cd80-c906-11eb-9c04-e1b8def39f8e.PNG)
 
 ### Website Link : https://thyroid-prediction-streamlit.herokuapp.com/
 
