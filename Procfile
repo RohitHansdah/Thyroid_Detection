@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run solubility_app.py
+web: sh setup.sh && streamlit run thyroid_app.py
