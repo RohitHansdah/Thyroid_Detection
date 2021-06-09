@@ -34,7 +34,7 @@ In this step Feature Scaling , Normalization and Over Sampling(Imbalanced Data) 
 
 #### Step 5 : Model Training :
 
-Each Cluster was trained on **K-Nearest Neighbours Classifier , Naive Bayes Classifier and Support Vector Classifier** and the optimal was choosen for each cluster.
+Each Cluster was trained on **K-Nearest Neighbours Classifier , Naive Bayes Classifier and Support Vector Classifier**.The model with better performance was choosen.
 
 #### Step 6 : Model Prediction and Evaluation and Hyper parameter tuning:
 
