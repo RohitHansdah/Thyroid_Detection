@@ -9,4 +9,6 @@ https://www.kaggle.com/kumar012/hypothyroid?select=hypothyroid.csv
 
 ![download](https://user-images.githubusercontent.com/44118554/121290011-85b13480-c903-11eb-837b-a6d338da72a6.jpg)
 
+### Website Link : https://thyroid-prediction-streamlit.herokuapp.com/
+
 
