@@ -22,7 +22,7 @@ In this step the missing values were handled using KNN imputer and unwanted colu
 
 #### Step 3 : Exploratory Data Analysis :
 
-In this step Feature Scaling and Normalization of the data was done.
+In this step Feature Scaling , Normalization and Over Sampling(Imbalanced Data) of the data was done.
 
 #### Step 4 : Data Clustering  :
 
