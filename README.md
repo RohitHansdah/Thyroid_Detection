@@ -4,3 +4,5 @@
 
 This app predicts the chances of having **Thyroid Disease** using user provided Medical Data. Training Data is obtained from Kaggle website , Training Dataset Link :
 https://www.kaggle.com/kumar012/hypothyroid?select=hypothyroid.csv
+
+[h1]Rohit
