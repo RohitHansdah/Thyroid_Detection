@@ -40,7 +40,7 @@ Each Cluster was trained on **K-Nearest Neighbours Classifier , Naive Bayes Clas
 
 The model predictions were made  on the test dataset and  Hyper parameter tuning was done using Grid Search CV .**ROC-AUC** score was used for evaluation of the model.
 
-
+![Capture](https://user-images.githubusercontent.com/44118554/121318372-d12a0980-c928-11eb-9ba3-6e5336118057.PNG)
 
 ### Website Link : https://thyroid-prediction-streamlit.herokuapp.com/
 
