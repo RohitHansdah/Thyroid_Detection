@@ -38,7 +38,7 @@ Each Cluster was trained on **Random Forest Classifier , Naive Bayes Classifier 
 
 #### Step 6 : Model Prediction and Evaluation and Hyper parameter tuning:
 
-The model predictions were made  on the test dataset and  Hyper parameter tunong was done using Grid search Cv**ROC-AUC** score was used for evaluation of the model.
+The model predictions were made  on the test dataset and  Hyper parameter tuning was done using Grid Search CV .**ROC-AUC** score was used for evaluation of the model.
 
 ![Capture](https://user-images.githubusercontent.com/44118554/121291898-a333cd80-c906-11eb-9c04-e1b8def39f8e.PNG)
 
