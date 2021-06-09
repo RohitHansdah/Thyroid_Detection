@@ -36,7 +36,7 @@ Training Data is obtained from Kaggle website , Training Dataset Link :
 """)
 logger.info("importing test dataset")
 uploaded_file = st.file_uploader("Choose a CSV file")
-st.write(""" Please ** keep the column names in the CSV File ** as follows : age', 'sex', 'on thyroxine', 'query on thyroxine',
+st.write(""" Please ** keep the column names in the CSV File ** as follows : 'age', 'sex', 'on thyroxine', 'query on thyroxine',
            'on antithyroid medication', 'sick', 'pregnant', 'thyroid surgery',
            'I131 treatment', 'query hypothyroid', 'query hyperthyroid', 'lithium',
            'goitre', 'tumor', 'hypopituitary', 'psych', 'TSH', 'T3', 'TT4', 'T4U',
