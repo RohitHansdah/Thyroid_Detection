@@ -28,6 +28,8 @@ In this step Feature Scaling , Normalization and Over Sampling(Imbalanced Data) 
 
 **KNN Clustering algorithm** was used to divide the Data into multiple clusters and the optimal number of clusters was decided using elbow method.
 
+![download (1)](https://user-images.githubusercontent.com/44118554/121291657-43d5bd80-c906-11eb-9caa-dfa7d9bc0c75.png)
+
 ![download](https://user-images.githubusercontent.com/44118554/121291553-16890f80-c906-11eb-9e72-7690169d31d9.png)
 
 #### Step 5 : Model Training :
