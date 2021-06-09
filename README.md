@@ -16,6 +16,26 @@ https://www.kaggle.com/kumar012/hypothyroid?select=hypothyroid.csv
 Important python libraries used were Scikit-Learn , Pandas , Numpy , Imblearn and  Streamlit . The Training dataset was obtaib=ned from Kaggle website 
 Dataset Link : https://www.kaggle.com/kumar012/hypothyroid?select=hypothyroid.csv
 
+#### Step 2 : Data Preprocessing : 
+
+In this step the missing values were handled using KNN imputer and unwanted columns from the dataset were removed.
+
+#### Step 3 : Exploratory Data Analysis :
+
+In this step Feature Scaling and Normalization of the data was done.
+
+#### Step 4 : Data Clustering  :
+
+**KNN Clustering algorithm** was used to divide the Data into multiple clusters and the optimal number of clusters was decided using elbow method.
+
+#### Step 5 : Model Training :
+
+Each Cluster was trained on **Random Forest Classifier , Naive Bayes Classifier and Support Vector Classifier** and the optimal was choosen for each cluster.
+
+#### Step 6 : Model Prediction and Evaluation :
+
+The model predicted on test dataset as well and **ROC-AUC** score was used for evaluation of the model.
+
 ### Website Link : https://thyroid-prediction-streamlit.herokuapp.com/
 
 
